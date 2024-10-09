@@ -1,6 +1,6 @@
 # About-Me
 # 💫 About Me:
-🔭**I’m currently learning:**  <br> Improving My Skills in Devops.<br><br>💬 **Ask me about:** Python, Devops, Golang, PostgreSQL, CI/CD .<br><br>
+🔭**I’m currently learning:**  <br> Improving My Skills in Devops and Cloud Engineering.<br><br>💬 **Ask me about:** Python, Devops, Golang, PostgreSQL, CI/CD .<br><br>
 
 
 ## 🌐 Socials:
